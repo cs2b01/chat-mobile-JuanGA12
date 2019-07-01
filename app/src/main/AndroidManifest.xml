@@ -14,7 +14,7 @@
         android:usesCleartextTraffic="true">
         <activity
             android:name=".ContactsActivity"
-            android:label="ContactsActivity"
+            android:label="contactsActivityTitle"
             android:parentActivityName=".LoginActivity">
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".LoginActivity">
